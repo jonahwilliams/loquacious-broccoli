@@ -1,0 +1,11 @@
+.DS_store
+
+rethinkdb_data/*
+
+node_modules/*
+
+cert.pem
+
+config.js
+
+SFPDProcessed.csv
